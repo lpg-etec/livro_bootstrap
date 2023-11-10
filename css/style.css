@@ -1,0 +1,7 @@
+#grid {
+    display: flex;
+    align-items: center;
+}
+#grid section {
+    width: 50%;
+}
